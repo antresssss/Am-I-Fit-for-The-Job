@@ -1,0 +1,58 @@
+
+Entry-Level Cybersecurity Engineer | Security Analyst | Application Security
+SUMMARY
+Cybersecurity Honors graduate with a CGPA of 9.17 and Honor Graduate recognition, with hands-on experience in cybersecurity
+projects, security analysis, password security, phishing detection, and DDoS mitigation. Google Cybersecurity Professional
+Certificate holder with internship experience at Kerala Cyber Police, Kottayam. Proficient in Python, security tools, and web
+technologies, with an interest in application security, network security, threat detection, and security engineering.
+TECHNICAL SKILLS
+Cybersecurity: Network Security, Application Security, Phishing Detection, Password Security, Authentication, DDoS Detection
+and Mitigation, Vulnerability Assessment Fundamentals
+Security Tools & Technologies: Wireshark, Nmap, Nessus, Metasploit, Burp Suite, Autopsy, Google DNS, Kali Linux
+Programming Languages: Python, Java, JavaScript, TypeScript, SQL
+Development & Platforms: Git, GitHub, Linux, REST APIs, React.js, Node.js
+EDUCATION
+St. Joseph's College of Engineering and Technology, Palai
+B.Tech in Computer Science and Engineering (Cybersecurity)
+•​ CGPA: 9.17/10 | Honors in Cybersecurity | Honor Graduate; highest CGPA in the branch
+Oct 2022 – May 2026
+EXPERIENCE
+Cybersecurity Intern | Kerala Cyber Police, Kottayam
+September 2025
+•​ Gained practical exposure to cybersecurity investigations, supported the cyber wing on cybercrime cases, and learned
+investigation workflows in a law-enforcement environment.
+SECURITY PROJECTS
+DDoS Detection & Mitigation System | Smart India Hackathon Project – Top 4
+•​ Developed a Python-based network traffic monitoring system using Scapy to sniff packets and track traffic by source IP
+address.
+•​ Implemented threshold-based detection to flag suspicious traffic and automatically block IPs using Linux iptables, with
+temporary blocking and automatic unblocking after a defined duration.
+•​ Technologies: Python, Scapy, Linux, iptables, Network Security
+PasseCure – Privacy-First Password Security Extension
+•​ Developed a browser extension featuring master-password protection and automated URL capture for password-related
+workflows.
+•​ Implemented AES-256-CBC encryption, password-strength analysis, and real-time breach checks using the Have I Been
+Pwned API, with a focus on privacy-conscious handling of sensitive data.
+Custom CTF Challenge Development | National-Level Technical Fest
+•​ Developed a custom Capture the Flag (CTF) challenge for a national-level technical fest organized by the Cyber Security
+Department.
+•​ Containerized the challenge with Docker and built a PHP-based web application with a file-upload mechanism and flag
+retrieval workflow; tested it with Docker and XAMPP before committing to GitHub.
+•​ Technologies: Docker, PHP, XAMPP, Linux, Git, GitHub
+Image-Password Authentication
+•​ Developed a Python prototype implementing graphical authentication through user-selected images and secret-pattern
+matching, exploring alternatives to text-based passwords.
+CERTIFICATIONS & TRAINING
+Google Cybersecurity Professional Certificate – Google, Nov 2023 • Network Analysis Using Wireshark 3 – Infosys
+Springboard, Jul 2024 • Patriot CTF Challenge – Jul 2024 • Red Hat AI-Integrated Career Acceleration Workshop on Cloud &
+DevOps – Mar 2025 • Gen AI Study Jams – Google Cloud, Jan 2025
+LEADERSHIP & COMMUNITY
+Linux, FOSS and Cybersecurity Workshops
+•​ Conducted Linux Essentials sessions and shared technical sessions covering Linux, Free and Open Source Software (FOSS),
+and cyber forensics.
+Student Lead | IEDC SJCET
+March 2024 – April 2026
+•​ Led student innovation initiatives and coordinated technical workshops, ideathons, and collaborative learning activities.
+Web Development Intern & Mentor | The Nexus Project (FOSS Club)
+June 2025 – July 2025
+•​ Mentored peers in web development; guided two open-source project teams through task assignment and code review.

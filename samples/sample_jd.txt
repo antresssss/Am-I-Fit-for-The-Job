@@ -1,0 +1,33 @@
+Software Engineer
+Location:Bangalore, India
+Category:Product and Engineering
+Job ID:2026331
+undefined:Hybrid
+Job Description
+Meet The Team
+The Cisco Wireless Feature & System Engineering team builds end-to-end wireless capabilities across access points, controllers, and cloud-managed platforms. We design features that span device software, control planes, and management systems to deliver seamless, secure, and high-performance enterprise Wi-Fi.
+
+Your Impact
+
+As a Embedded Software Engineer, you will contribute to building and validating wireless features across the stack—from access points to controllers and management systems. This is a full development and test role, where you will own features from implementation through validation and automation.
+ In this role:
+
+Develop and integrate wireless features across AP, controller, and management layers
+Write and maintain software in C/C++ and scripting languages (Python)
+Design and execute test plans, and develop automation for feature validation
+Analyze logs, packet traces, and system behavior to debug issues
+Reproduce issues and validate fixes across system components
+Set up and use lab environments for testing wireless scenarios
+Minimum Qualification
+
+MS + 0-2 years or BS + 1-3 years of experience
+Strong programming skills in C/C++ and Python
+Solid understanding of networking fundamentals and Wi-Fi (802.11 basics)
+Experience or strong interest in testing, automation, and system validation
+Strong debugging and analytical skills
+Preferred Qualification
+
+Exposure to wireless controllers or cloud-managed networking systems
+Experience with tools like Wireshark
+Familiarity with WPA2/WPA3 security
+this is a different role at CISCO, my cybersecurity courses really align with this, could you make a resume for this role, focussing on security projects and stuff
